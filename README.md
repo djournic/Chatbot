@@ -7,3 +7,6 @@ A lot of this is taken from:
 https://dzone.com/articles/python-chatbot-project-build-your-first-python-pro
 
 With my own additions and edits.
+The dream is to create a chatbot very similar to Bender from Futurama: offensive, insulting even.
+
+![Alt Text](https://media4.giphy.com/media/h1zJMhT5XOT927e0aw/giphy.gif)
