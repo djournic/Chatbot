@@ -10,3 +10,5 @@ With my own additions and edits.
 The dream is to create a chatbot very similar to Bender from Futurama: offensive, insulting even.
 
 ![Alt Text](https://media4.giphy.com/media/h1zJMhT5XOT927e0aw/giphy.gif)
+
+The key to this is to edit the response files. That sounds like it'll take a lot of work, but I don't have much else to do.
